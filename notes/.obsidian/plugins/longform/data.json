@@ -1,0 +1,133 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": "books/Таненбаум ОС/Index.md",
+  "userScriptFolder": null,
+  "sessionStorage": "data",
+  "sessions": [
+    {
+      "start": "2023-07-09T10:38:29.643Z",
+      "total": 0,
+      "drafts": {
+        "books/Таненбаум ОС/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Введение": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2023-07-08T00:02:31.915Z",
+      "total": 0,
+      "drafts": {
+        "books/Таненбаум ОС/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Введение": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2023-07-05T06:06:55.035Z",
+      "total": 0,
+      "drafts": {
+        "books/Таненбаум ОС/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Введение": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2023-06-25T20:03:20.923Z",
+      "total": 0,
+      "drafts": {
+        "books/Таненбаум ОС/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Введение": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2023-06-21T09:36:47.338Z",
+      "total": 227,
+      "drafts": {
+        "books/Таненбаум ОС/Index.md": {
+          "total": 227,
+          "scenes": {
+            "Введение": 227
+          }
+        }
+      }
+    },
+    {
+      "start": "2023-06-19T11:44:57.342Z",
+      "total": 0,
+      "drafts": {
+        "Untitled/Таненбаум ОС/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "books/Таненбаум ОС/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Введение": 0
+          }
+        }
+      }
+    }
+  ],
+  "showWordCountInStatusBar": true,
+  "startNewSessionEachDay": true,
+  "sessionGoal": 500,
+  "applyGoalTo": "all",
+  "notifyOnGoal": true,
+  "countDeletionsForGoal": false,
+  "keepSessionCount": 30,
+  "sessionFile": "longform-sessions.json",
+  "numberScenes": false,
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\\n\\n---\\n\\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "manuscript.md",
+            "open-after": true
+          }
+        }
+      ]
+    }
+  }
+}

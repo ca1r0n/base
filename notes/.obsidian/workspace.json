@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "66c8959ccb3bd3cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e257237379588114",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "004ca96e25a96fea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paper/Вопросы для собеседований JS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b59034a5f7238c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "28f9b4c35933372b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "068eba42495dac28",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6656352d34fea3b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e624b879dfbc706",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "1b61d284ee422649",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6b1e49a40a559817",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad3b8c33aca0547c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85f103bb4426ee95",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "paper/Вопросы для собеседований JS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52749cc0de9100ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "paper/Вопросы для собеседований JS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa242043950022af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "00c8dfb62a08062d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "paper/Вопросы для собеседований JS.md"
+              }
+            }
+          },
+          {
+            "id": "b914218036f7d3f5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "004ca96e25a96fea",
+  "lastOpenFiles": [
+    "paper/Асинхроное программирование на с++.md",
+    "paper/Вопросы для собеседований JS.md",
+    "paper/The Internals of Node.js.md",
+    "images/Pasted image 20230709154608.png",
+    "images/Pasted image 20230709153922.png",
+    "images/Pasted image 20230709154145.png",
+    "images/Pasted image 20230709154137.png",
+    "images/Pasted image 20230709153646.png",
+    "images/Pasted image 20230709153636.png",
+    "images/Pasted image 20230709150941.png",
+    "images/Pasted image 20230709150938.png",
+    "images/Pasted image 20230709144944.png",
+    "images/Pasted image 20230709144820.png",
+    "Untitled",
+    "paper/Spaced Repetition for Efficient Learning.md",
+    "paper/Difference between the Event Loop in Browser and Node Js?.md",
+    "paper/B-tree index on postgresql.md",
+    "books/Таненбаум ОС/Введение.md",
+    "spaced repetition",
+    "books/Таненбаум ОС/Index.md",
+    "Untitled/Таненбаум ОС/Index.md",
+    "books/Таненбаум ОС",
+    "paper",
+    "books",
+    "Untitled/Таненбаум ОС",
+    "images"
+  ]
+}
